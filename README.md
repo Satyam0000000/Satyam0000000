@@ -1,13 +1,11 @@
-<h1 align="center">Hi 👋, I'm Satyam Goswami</h1>
+<h1 align="center">I'm Satyam Goswami</h1>
 <h3 align="center">A passionate to become full stack web developer</h3>
 
-- 🔭 I’m currently working on **Street Status Project**
+- Prefinal Year Student at NIT Jalandhar
 
-- Currently learning **Frontend as well Backend**
+- MERN Stack Dev
 
-- 👯 First year B.Tech Student **NIT Jalandhar**
-
-- 📫 How to reach me **satyamgoswami2705@gmail.com**
+  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
